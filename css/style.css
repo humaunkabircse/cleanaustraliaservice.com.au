@@ -632,6 +632,9 @@ span.focus-text {
     position: relative;
     width: 20%;
 }
+.copyright {
+    font-size: small;
+}
 
 
 }
